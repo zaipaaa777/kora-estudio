@@ -1,0 +1,37 @@
+gap-3 crea separación entre los elementos.
+
+Truco para recordar:
+- m = margin (margen).
+- p = padding (espacio interno).
+- t = top (arriba).
+- b = bottom (abajo).
+- s = start (inicio).
+- e = end (final).
+- x = horizontal.
+- y = vertical.
+
+agregar bordes a imagenes de css
+
+.imagen-card {
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+    border-radius: 15px; <<<<<<----
+}
+
+desde bootstrap con la clase: rounded, rounded-3, rounded-pill
+
+
+difuminar imagen desde css
+
+.portada {
+    position: relative;
+    background-image: 
+        linear-gradient(to right, white 0%, transparent 75%),
+        url("../img/portada.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
