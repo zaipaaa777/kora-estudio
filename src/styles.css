@@ -1,0 +1,71 @@
+
+:root {
+    /* ==============================
+       FONDOS
+    ============================== */
+
+    --color-fondo-principal: rgb(248, 245, 240);
+    --color-fondo-secundario: rgb(239, 233, 224);
+    --color-blanco: rgb(255, 255, 255);
+    --color-fondo-footer: rgb(34, 30, 28);
+    --color-fondo-inputs: rgb(48, 43, 40);
+
+    /* ==============================
+       COLORES PRINCIPALES
+    ============================== */
+
+    --color-primario: rgb(184, 92, 56);
+    --color-primario-oscuro: rgb(142, 64, 36);
+
+    /* ==============================
+       TEXTOS
+    ============================== */
+
+    --color-texto-principal: rgb(34, 30, 28);
+    --color-texto-hero: rgb(58, 49, 44);
+    --color-texto-parrafos: rgb(92, 83, 76);
+    --color-texto-tarjetas: rgb(105, 95, 87);
+    --color-texto-footer: rgb(235, 228, 218);
+    --color-texto-footer-secundario: rgb(194, 184, 172);
+
+    /* ==============================
+       BORDES Y DIVISORES
+    ============================== */
+
+    --color-borde-secciones: rgb(228, 220, 209);
+    --color-borde-tarjetas: rgb(233, 226, 216);
+
+    /* ==============================
+       BADGE 1 - TERRACOTA
+    ============================== */
+
+    --color-badge-1-fondo: rgb(247, 232, 225);
+    --color-badge-1: rgb(184, 92, 56);
+
+    /* ==============================
+       BADGE 2 - OCRE
+    ============================== */
+
+    --color-badge-2-fondo: rgb(250, 240, 222);
+    --color-badge-2: rgb(196, 134, 52);
+
+    /* ==============================
+       BADGE 3 - SALVIA
+    ============================== */
+
+    --color-badge-3-fondo: rgb(232, 240, 230);
+    --color-badge-3: rgb(90, 114, 85);
+
+    /* ==============================
+       BADGE 4 - COBRE
+    ============================== */
+
+    --color-badge-4-fondo: rgb(243, 233, 228);
+    --color-badge-4: rgb(142, 74, 49);
+
+    /* ==============================
+       OTROS ELEMENTOS
+    ============================== */
+
+    --color-paginacion-inactiva: rgb(216, 206, 194);
+}
